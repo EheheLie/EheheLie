@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EheheLie
+- 👋 Hi, I’m @EheheLie and 23 years old.
 - 👀 I’m interested in software, mechanics. web sites, games etc. 
 - 🌱 I’m currently learning C++ , html, css, javascript and unity.
 - 💞️ I’m looking to collaborate on ...
